@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gustavo Akio
+# 👨🏻‍💻 Gustavo Akio
 
 **`Data Science`**
 - 🔭 Hoje trabalho como jovem aprendiz no Ache na área de inteligência de Suprimentos
